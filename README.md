@@ -1,5 +1,5 @@
 # Object_Tracking_Counting
-This project is done in Hackathon under 24hr in RGMCET
+This project was developed during a 24 hour hackathon at RGMCET conducted by BYTS INDIA(BYTS HACKLEAGUE 1.0)
 # Introduction
 This project focuses on developing a system for object tracking and counting the number of objects using Computer Vision techniques and the OpenCV library.
 The system aims to accurately detect and count the objects.
