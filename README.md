@@ -8,7 +8,7 @@ Objects such as people,animals,books,bottles,mobiles etc..
 The goal is to develop a system that can count the number of objects passing through a door using a
 camera. The system would need to identify the objects in the camera feed, track their movement,
 and keep count of how many objects pass through the door.
-# Results and Discussion
+# Results&Discussion
 The system successfully identify the objects in the camera feed, track their movement,
 and keep count of how many objects pass through the door.
 # Conclusion
