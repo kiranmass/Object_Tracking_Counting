@@ -14,13 +14,19 @@ and keep count of how many objects pass through the door.
 # Conclusion
 The developed system  effectively detects the objetcs passing through the camera placed to the door.
 # Team Members
-  1.M.KIRAN KUMAR
-  2.G.Yogasree
-  3.k.Likhitha
-  4.G.Lakshmi Priya
-  5.D.SIVA KUMAR
-  6.A.BALAJI
-  7.K.GOWTHAM REDDY
+  1. M.KIRAN KUMAR
+  
+  2. G.Yogasree
+  
+  3. K.Likhitha
+  
+  4. G.Lakshmi Priya
+  
+  5. D.SIVA KUMAR
+  
+  6. A.BALAJI
+  
+  7. K.GOWTHAM REDDY
 # Appreciation
 We would like to acknowledge and thank RGMCET and BYTS INDIA for their efforts in organizing the 24-hour hackathon, which brought us together for an exciting event. We are immensely grateful for their commitment to fostering learning, collaboration, and growth. At last this event gave us an unique and enriching experience.
 # Contact Us
